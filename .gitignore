@@ -3,3 +3,11 @@
 ################################################################################
 
 /TariffComparison.Test/obj
+/TariffComparison.Test/bin/Debug
+/TariffComparison/bin/Debug
+/TariffComparison/obj
+/ConsoleUI/obj
+/ConsoleUI/bin/Debug
+/.vs/TariffComparison/DesignTimeBuild
+/.vs/TariffComparison/v15/Server/sqlite3
+/.vs/TariffComparison/v15
